@@ -9,7 +9,7 @@ An end-to-end data pipeline built on Databricks that processes New York baby nam
 - **Silver Layer:** Data validation, cleaning, and quality checks  
 - **Gold Layer:** Trend analysis and aggregation
 - **Report Layer:** Business insights and visualizations
-- 
+
 ## Pipeline Steps
 1. **Ingestion:** Download from NY health data API
 2. **Cleaning:** Data quality checks, null handling, duplicate removal, proper column naming
