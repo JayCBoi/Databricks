@@ -5,7 +5,7 @@ A collection of projects built on Databricks, including single task handling, sc
 ## 🚀 Projects
 
 ### 1. [Marketing Analysis](https://github.com/JayCBoi/Databricks/tree/main/Marketing%20Analysis)
-Simulating getting and analysing data from marketing campaign, setting up the daily task to make a report out of it.
+Simulates marketing campaign data ingestion and analysis, with an automated daily reporting task for performance insights.
 
 ### 2. [Baby Names Analysis Pipeline](https://github.com/JayCBoi/Databricks/tree/main/Name%20Trends%20Pipeline)
 End-to-end pipeline processing NY baby name data with trend analysis and automated reporting.
