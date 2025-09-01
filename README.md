@@ -10,7 +10,7 @@ Simulates marketing campaign data ingestion and analysis, with an automated dail
 ### 2. [Baby Names Analysis Pipeline](https://github.com/JayCBoi/Databricks/tree/main/Name%20Trends%20Pipeline)
 End-to-end pipeline processing NY baby name data with trend analysis and automated reporting.
 
-## 🛠️ I use:
+## 🛠️ Technologies
 
 - **Databricks Platform:** Unity Catalog, with Volumes, SQL and Notebooks
 - **Data Engineering:** Medallion Architecture, Data quality
