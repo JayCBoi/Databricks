@@ -27,6 +27,4 @@ All projects follow:
 - Automated data quality checks
 - Production-ready scheduling and monitoring
 
-## 📁 Repository Structure
-
-**Note:** this repository contains only *.py* notebook files used in Databricks. All pipeline results, job configurations, and visualizations are documented in the README files below.
+**Note:** this repository contains only *.py* notebook files used in Databricks or *.ipynb* files. All pipeline results, job configurations, and visualizations are documented in the README files below.
