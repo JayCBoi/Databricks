@@ -10,7 +10,7 @@ Simulates marketing campaign data ingestion and analysis, with an automated dail
 ### 2. [Baby Names Analysis Pipeline](https://github.com/JayCBoi/Databricks/tree/main/Name%20Trends%20Pipeline)
 End-to-end pipeline processing NY baby name data with trend analysis and automated reporting.
 
-### 3. [A/B-Test Simulation](https://github.com/JayCBoi/Databricks/tree/main/AB%20Test%20Analysis)
+### 3. [A/B-Test Simulation for Landing Page Conversion](https://github.com/JayCBoi/Databricks/tree/main/AB%20Test%20Analysis)
 Python notebook in which I present an A/B-Test, done on simulated (and simplified) data.
 
 ## 🛠️ Technologies
