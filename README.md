@@ -24,7 +24,7 @@ Python notebook in which I present an A/B-Test, done on simulated (and simplifie
 All projects follow:
 - Bronze → Silver → Gold data layers
 - Parameterized and reusable notebooks
-- Automated data quality checks
-- Production-ready scheduling and monitoring
+- Data quality checks
+- Scheduling and monitoring
 
 **Note:** this repository contains only *.py* notebook files used in Databricks or *.ipynb* files. All pipeline results, job configurations, and visualizations are documented in the README files below.
