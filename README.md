@@ -1,6 +1,6 @@
 # Databricks Projects Portfolio
 
-A collection of projects built on Databricks, including single task handling, scheduling, jobs and pipelines.
+A collection of projects built on Databricks and Google Colabs, including single task handling, scheduling, jobs and pipelines.
 
 ## 🚀 Projects
 
